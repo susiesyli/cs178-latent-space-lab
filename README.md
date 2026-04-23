@@ -1,5 +1,5 @@
 ### Lab Demo 
-[![Lab demo preview](assets/lab-demo-preview.png)](assets/lab-demo.mov)
+[![Lab demo preview](assets/lab-demo-preview.gif)](assets/lab-demo.mov)
 
 ### Lecture slides from Tuesday
 https://susiesyli.com/cs178-latent-space-lecture/#0
